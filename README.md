@@ -369,6 +369,9 @@ public class MainActivity2 extends AppCompatActivity {
 ![WhatsApp Image 2024-03-24 at 20 06 53_f2f6e4b8](https://github.com/sabithapaulraj/Workshop---Mobile-Application-Development/assets/118343379/616e3cb1-2f36-48c4-995c-de24393e1c58)
 ![WhatsApp Image 2024-03-24 at 20 06 54_7f1e162f](https://github.com/sabithapaulraj/Workshop---Mobile-Application-Development/assets/118343379/449610c6-90c0-4ddf-a523-dc8375a48cad)
 
+## Working in Android Studio
+![Screenshot 2024-04-20 190040](https://github.com/sabithapaulraj/Workshop---Mobile-Application-Development/assets/118343379/51302d0f-7b29-4131-b3ae-0557d817683f)
+![Screenshot 2024-04-20 190119](https://github.com/sabithapaulraj/Workshop---Mobile-Application-Development/assets/118343379/c5594a99-2db8-4e02-ae86-569198cd9bd0)
 
 
 ## RESULT
